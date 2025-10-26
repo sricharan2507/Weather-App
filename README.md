@@ -18,3 +18,9 @@ A responsive Weather Application built using **React.js** for the front-end, fet
 1. Clone the repository:
    ```bash
    git clone https://github.com/sricharan2507/Weather-App.git
+2. cd Weather-App
+3. npm install
+4. npm start
+5. Open http://localhost:3000
+ in your browser.
+
